@@ -47,20 +47,7 @@ Cosine Similarity Matching
      ↓
 Authentication Result
 
-📂 Project Structure
-biometric-auth/
-│
-├── backend/
-│   ├── main.py
-│   ├── database.py
-│   ├── models.py
-│   └── utils.py
-│
-├── frontend/
-│   └── app.py   (Streamlit UI)
-│
-├── requirements.txt
-└── README.md
+
 
 🧠 How It Works
 1️⃣ Enrollment
@@ -134,3 +121,4 @@ Face spoof detection
 Deployment on AWS / Azure
 
 Mobile app integration
+
